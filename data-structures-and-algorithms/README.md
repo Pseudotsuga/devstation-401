@@ -1,10 +1,10 @@
 # Reverse Array
 
-<!-- Short Summary -->
+For our first coding challenge of code 401 we have been tasked to accept an input number. 
 
 ## Challenge
 
-<!-- Description of the Challenge -->
+Reverse an Array.
 
 ## Approach and Efficiency 
 
