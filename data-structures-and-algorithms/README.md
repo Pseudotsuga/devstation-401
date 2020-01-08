@@ -20,7 +20,6 @@ We took the approach of declaring a counter to represent the number of array ele
 ![Whiteboard Image 2](assets/IMG_20200106_162900.jpg)
 
 
-<!-- TODO: Either remove references to stretch goal here or make stretch work -->
 # Shift Array
 
 This challenge also involved array manipulation. In contrast to the previous challenge it requires insertion and removal of an array element as opposed to rearrangement. 
