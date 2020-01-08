@@ -1,10 +1,8 @@
-# Table of Contents
-
-Links for individual challenges go here.
-
 # Reverse Array
 
 For our first coding challenge of code 401 we have been tasked to accept an inputted array of numbers and then return an a new array of the same numbers with in reverse order. We have also been asked to do this without access to any of the built-in Array Methods of ES6. 
+
+## [Code](./ArrayReverse/array-reverse.js)
 
 ## Challenge
 
@@ -23,6 +21,8 @@ We took the approach of declaring a counter to represent the number of array ele
 # Shift Array
 
 This challenge also involved array manipulation. In contrast to the previous challenge it requires insertion and removal of an array element as opposed to rearrangement. 
+
+## [Code](./ArrayShift/array-shift.js)
 
 ## Challenge
 
